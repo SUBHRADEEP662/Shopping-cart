@@ -1,0 +1,62 @@
+{
+  "cart": [
+    {
+      "product": {
+        "title": "Samsung a50",
+        "description": "This is a Smart Phone.",
+        "price": "21000",
+        "imageUrl": "https://m.media-amazon.com/images/I/710weRkP-nL._AC_UY218_.jpg",
+        "id": "60c77ea8de78d8033a5bfcf9"
+      },
+      "id": 2
+    },
+    {
+      "product": {
+        "title": "Samsung a50",
+        "description": "This is a Smart Phone.",
+        "price": "21000",
+        "imageUrl": "https://m.media-amazon.com/images/I/710weRkP-nL._AC_UY218_.jpg",
+        "id": "60c77946e53184577bc91551"
+      },
+      "id": 3
+    },
+    {
+      "product": {
+        "title": "Samsung a50",
+        "description": "This is a Smart Phone.",
+        "price": "21000",
+        "imageUrl": "https://m.media-amazon.com/images/I/710weRkP-nL._AC_UY218_.jpg",
+        "id": "60c77ea8de78d8033a5bfcf9"
+      },
+      "id": 4
+    },
+    {
+      "product": {
+        "title": "Samsung a50",
+        "description": "This is a Smart Phone.",
+        "price": "21000",
+        "imageUrl": "https://m.media-amazon.com/images/I/710weRkP-nL._AC_UY218_.jpg",
+        "id": "60c77946e53184577bc91551"
+      },
+      "id": 5
+    },
+    {
+      "product": {
+        "title": "Samsung a50",
+        "description": "This is a Smart Phone.",
+        "price": "21000",
+        "imageUrl": "https://m.media-amazon.com/images/I/710weRkP-nL._AC_UY218_.jpg",
+        "id": "60c831be81c7555e75ae936c"
+      },
+      "id": 6
+    }
+  ],
+  "wishlist": [
+    {
+      "id": "60c831be81c7555e75ae936c"
+    },
+    {
+      "id": "60c77ea8de78d8033a5bfcf9"
+    }
+  ]
+}
