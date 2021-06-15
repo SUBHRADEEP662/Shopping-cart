@@ -1,0 +1,183 @@
+{
+    "product1": {
+        "name": "Redux Analog Watch",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/81BDpSIwu3L._UL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/715C6Ga9z7L._UL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/81GfEceiPSL._UL1500_.jpg",
+        "details": "Aside from boasting a stylish and sporty design, this watch features a lightweight make that ensures complete comfort for the wearer.",
+        "price": 299,
+        "rating": {
+            "5": 41,
+            "4": 21,
+            "3": 15,
+            "2": 8,
+            "1": 15
+        }
+    },
+    "product2": {
+        "name": "Men's Relaxed Fit Jean",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/81v5CM3qlZL._UL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/81B-oyG72WL._UL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/31El68TQVJL.jpg",
+        "details": "These comfortable jeans sit slightly below the waist and feature a roomy seat and thigh with a straight leg that fits over boots.",
+        "price": 5549,
+        "rating": {
+            "5": 70,
+            "4": 16,
+            "3": 7,
+            "2": 2,
+            "1": 4
+        }
+    },
+    "product3": {
+        "name": "Men's Round Neck T-Shirts - Pack of 4",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/715xyTRQM7L._UL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/61LvZU4aBuL._UL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/61tlalLHC8L._UL1500_.jpg",
+        "details": "This comfortable men t-shirt not only provide a cool feeling but also gives a stylish look overall.",
+        "price": 649,
+        "rating": {
+            "5": 35,
+            "4": 21,
+            "3": 15,
+            "2": 7,
+            "1": 22
+        }
+    },
+    "product4": {
+        "name": "Klepe Boys Running Shoes",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/81KTBmnWjbS._UL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/81lAIWUD3yS._UL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/811cLjMTHyS._UL1500_.jpg",
+        "details": "Klepe represents the fashionable shoes range from the sneakers, Sports and canvas style of wears. High quality with hi-fi style.",
+        "price": 749,
+        "rating": {
+            "5": 61,
+            "4": 49,
+            "3": 21,
+            "2": 34,
+            "1": 0
+        }
+    },
+    "product5": {
+        "name": "RANI SAAHIBA Women's Chiffon Zari Woven Saree",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/91RLBThNNhL._UL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/81uXnhTxj1L._UL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/91bK0A7f6dL._UL1500_.jpg",
+        "details": "One of the most graceful costumes made from unstitched fabric-the saree-the much loved choice for most Indian women.",
+        "price": 699,
+        "rating": {
+            "5": 37,
+            "4": 25,
+            "3": 17,
+            "2": 6,
+            "1": 15
+        }
+    },
+    "product6": {
+        "name": "Denill Women's Ballet Flats",
+        "img1": "https://m.media-amazon.com/images/I/71KB-PZzbwL._UL1500_.jpg",
+        "img2": "https://m.media-amazon.com/images/I/71QvXLhVvWL._UL1500_.jpg",
+        "img3": "https://m.media-amazon.com/images/I/71GgdcLyQTL._UL1500_.jpg",
+        "details": "Sole: AIRMAX, Closure: Pull-On,Shoe Width: Medium, Care Instructions: Rotate Your Pair Of Shoes Once Every Other Day, Allowing Them To De-Odorize And Retain Their Shapes.",
+        "price": 360,
+        "rating": {
+            "5": 44,
+            "4": 27,
+            "3": 15,
+            "2": 6,
+            "1": 9
+        }
+    },
+    "product7": {
+        "name": "Gold Plated Floral Earrings for Girls and Women",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/71iJUvjnOZL._UL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/717EzrbajCL._UL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/71LtyYkwmdL._UL1500_.jpg",
+        "details": "Celebrate the festivals with Youbella and wear these dangle earrings as a perfect match for your dress to zest up your style and double.",
+        "price": 219,
+        "rating": {
+            "5": 58,
+            "4": 22,
+            "3": 11,
+            "2": 4,
+            "1": 6
+        }
+    },
+    "product8": {
+        "name": "Makeup Kit for Women",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/916HJ-GDc2L._SL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/91aCHIR965L._SL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/91N-GdDLnPL._SL1500_.jpg",
+        "details": "Product Dimensions ‏ : ‎ 6 x 12 x 2 cm; 59.5 Grams Date First Available ‏:25 February 2018 Manufacturer ‏ : ‎ Marketed By : Little Profit Trading Co. ASIN",
+        "price": 449,
+        "rating": {
+            "5": 47,
+            "4": 18,
+            "3": 13,
+            "2": 7,
+            "1": 15
+        }
+    },
+    "product9": {
+        "name": "ASUS ROG Zephyrus G14 (2021)",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/81rOuSWZtvL._SL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/61F-XLlyonS._SL1200_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/619w637DDlS._SL1200_.jpg",
+        "details": "ASUS ROG Zephyrus G14 (2021), 14 inch (35.56 cms) WQHD 120Hz, Ryzen 9 5900HS, RTX 3060 6GB",
+        "price": 161990,
+        "rating": {
+            "5": 5,
+            "4": 1,
+            "3": 0,
+            "2": 0,
+            "1": 0
+        }
+    },
+    "product10": {
+        "name": "True Wireless Earbuds",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/71Gw1B%2BXeBL._SL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/71-UZ%2BLqkcS._SL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/71s%2BoBchMzS._SL1500_.jpg",
+        "details": "truke Buds Q1 True Wireless Earbuds with Environmental Noise Cancellation(ENC) & Quad MEMS Mic for Clear Call ",
+        "price": 1299,
+        "rating": {
+            "5": 44,
+            "4": 26,
+            "3": 8,
+            "2": 4,
+            "1": 18 
+        }
+    },
+    "product11": {
+        "name": "Apple iPhone 12 Pro Max",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/71MHTD3uL4L._SL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/81zWNUdBZxL._SL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/71yz7E%2BC2fL._SL1500_.jpg",
+        "details": "6.7-inch (17 cm diagonal) Super Retina XDR display Ceramic Shield, tougher than an smart phone glass A14 Bionic chip",
+        "price": 124700,
+        "rating": {
+            "5": 83,
+            "4": 9,
+            "3": 2,
+            "2": 1,
+            "1": 5  
+        }
+    },
+    "product12": {
+        "name": "Mi Power Bank",
+        "img1": "https://images-na.ssl-images-amazon.com/images/I/71lVwl3q-kL._SL1500_.jpg",
+        "img2": "https://images-na.ssl-images-amazon.com/images/I/81WS1l9stUL._SL1500_.jpg",
+        "img3": "https://images-na.ssl-images-amazon.com/images/I/91H11IswBQL._SL1500_.jpg",
+        "details": "Mi Power Bank 3i 20000mAh (Sandstone Black)| Input- Type C and Micro USB| Triple Output | 18W Fast Charging | Power Delivery",
+        "price": 1699,
+        "rating": {
+            "5": 59,
+            "4": 25,
+            "3": 8,
+            "2": 2,
+            "1": 6  
+        }
+    }
+    
+} 
